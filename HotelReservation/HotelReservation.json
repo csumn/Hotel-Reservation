@@ -1,0 +1,64 @@
+{
+    "Hotels": [
+        {
+            "Name": "ITC",
+            "Room Count": "20",
+            "Location": " Madhapur",
+            "Price": "10500",
+            "Check-in time": "03:00 PM",
+            "Check-out time": "12:00 PM",
+            "Free Internet": "yes",
+            "Air Conditioning": "yes",
+            "Power-Backup": "yes",
+            "Doctor on call": "yes"
+        },
+        {
+            "Name": "Taj Falaknuma Palace",
+            "Room Count": "15",
+            "Location": "Falaknuma",
+            "Price": "30000",
+            "Check-in time": "02:00 PM",
+            "Check-out time": "12:00 PM",
+            "Free Internet": "yes",
+            "Air Conditioning": "yes",
+            "Power-Backup": "yes",
+            "Doctor on call": "yes"
+        },
+        {
+            "Name": "Treebo Trip Aditya Harsha",
+            "Room Count": "30",
+            "Location": "Gachibowli",
+            "Price": "19000",
+            "Check-in time": "12:00 PM",
+            "Check-out time": "11:00 AM",
+            "Free Internet": "yes",
+            "Air Conditioning": "yes",
+            "Power-Backup": "yes",
+            "Doctor on call": "yes"
+        },
+        {
+            "Name": "Signature Zone",
+            "Room Count": "10",
+            "Location": "Shamshabad",
+            "Price": "18000",
+            "Check-in time": "12:00 PM",
+            "Check-out time": "12:00 PM",
+            "Free Internet": "yes",
+            "Air Conditioning": "yes",
+            "Power-Backup": "yes",
+            "Doctor on call": "yes"
+        },
+        {
+            "Name": "Lemo Tree Premier",
+            "Room Count": "20",
+            "Location": "Madhapur",
+            "Price": "8000",
+            "Check-in time": "02:00 PM",
+            "Check-out time": "12:00 PM",
+            "Free Internet": "yes",
+            "Air Conditioning": "yes",
+            "Power-Backup": "yes",
+            "Doctor on call": "yes"
+        }
+    ]
+}
